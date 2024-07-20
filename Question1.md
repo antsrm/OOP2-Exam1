@@ -12,9 +12,7 @@ There should be a 'Student' class that has private fields and methods to read / 
 The class designs:
 
 - 'Student' Class, private fields.
-<br>
 - 'StudentView', with read-only methods.
-<br>
 - 'AdminView', extends 'StudentView', has methods to update student info.
 
 Class invariant: Integrity of 'Student' object is kept by control of access through interfaces.
